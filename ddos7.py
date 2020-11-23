@@ -17,7 +17,7 @@ target.replace("https://","")
 target.replace("www.","")
 ip = socket.gethostbyname(target)
 port = 80
-joker = "DDOSjsjsjjdjdjdjdjjjjjjjjjiiiiiiiopppkkkkjjjjjhhhbbbbgbvvvvvvvvvvvvhhhhhaaa>
+joker = "DDOSjsjsjjdjdjdjdjjjjjjjjjiiiiiiiopppkkkkjjjjjhhhbbbbgbvvvvvvvvvvvvhhhhhaaausueueueuejsuuusususususududdu"
 os.system("clear")
 os.system("toilet -f mono12 LOADING | lolcat")
 print("Loading{~~~   }5%")
